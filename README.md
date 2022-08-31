@@ -1,2 +1,2 @@
-# Facial-recognition
-Recognition and location of people
+# Facial Recognition
+Face and person recognition using PCL for position
