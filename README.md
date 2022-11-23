@@ -1,2 +1,2 @@
 # Facial Recognition
-Face and person recognition using PCL for position.
+Face detection using ROS
